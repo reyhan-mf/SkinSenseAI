@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+    <string name="default_firebase_url">https://skinsense-6f085-default-rtdb.asia-southeast1.firebasedatabase.app/</string>  
+    <string name="default_firebase_database_url">https://skinsense-6f085-default-rtdb.asia-southeast1.firebasedatabase.app/</string>  
+    <string name="default_firebase_root_path">/</string>  
+    <string name="default_firebase_api_key">AIzaSyC7urm9fqLiCiXS9bhn4cK9ZZR9utaM9A8</string>  
+    <string name="default_firebase_app_id">1:292241377490:web:cf9a37a3cbd875e155c50b</string>  
+    <string name="default_firebase_project_id">skinsense-6f085</string>  
+    <string name="default_firebase_storage_bucket">skinsense-6f085.appspot.com</string>  
+</resources>
