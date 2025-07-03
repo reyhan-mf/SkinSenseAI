@@ -59,7 +59,7 @@ class _DiseaseDetailScreenState extends State<DiseaseDetailScreen> {
     final headers = {
       'Content-Type': 'application/json',
       'Authorization':
-          'Bearer AIzaSyCEmJQ1XrKQOablkG4Uee2wb0jiapIzYSU' // Replace with your actual API key
+          'API KEY' // Replace with your actual API key
     };
     final body = jsonEncode({
       "contents": [
